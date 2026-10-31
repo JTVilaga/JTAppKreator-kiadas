@@ -1,0 +1,37 @@
+JT AppKreator – Felhasználási feltételek (licenc)
+© 2026 Jámbor Tamás (JTVilaga). Minden jog fenntartva.
+
+1. Használat
+   A JT AppKreator ingyenesen használható bármilyen célra, munkához is.
+   A vele készített appok (PWA, APK) a készítőjük tulajdonában vannak;
+   azokat szabadon használhatja, terjesztheti, akár el is adhatja.
+   A kreátor az elkészült PWA index.html-jébe egy láthatatlan jelölést tesz
+   (<meta name="generator" content="JT AppKreator ...">). Ez az app működését
+   nem befolyásolja, és szabadon törölhető.
+
+2. Beszerzés
+   A program csak a szerzőtől szerezhető be: tőle közvetlenül, vagy a hivatalos
+   kiadási oldalról (github.com/JTVilaga/JTAppKreator-kiadas), illetve a programba
+   épített Frissítés gombbal.
+
+3. Tilos
+   - a programot vagy annak bármely részét eladni, bérbe adni, pénzért vagy
+     fizetős szolgáltatás részeként elérhetővé tenni;
+   - a programot másnak továbbadni vagy közzétenni (ehhez a szerző engedélye kell);
+   - a programot módosítva továbbadni;
+   - a programból a szerző nevét, ezt a licencet vagy a szerzői jogi jelölést
+     eltávolítani.
+
+4. Fejlesztői csomag
+   Aki a szerzőtől a fejlesztői csomagot (a forrást) kapja, saját használatra
+   módosíthatja. Továbbadni, közzétenni, eladni – módosítva sem – nem szabad.
+
+5. Felelősség
+   A program „ahogy van” állapotban érhető el, mindenféle garancia nélkül.
+   A szerző nem felel a használatából eredő károkért (pl. elveszett aláírókulcs,
+   adatvesztés, hibás APK). Az aláírókulcsok mentése a felhasználó feladata.
+
+6. Egyéb
+   Az itt nem szabályozott kérdésekben a magyar jog, különösen a szerzői jogról
+   szóló 1999. évi LXXVI. törvény az irányadó.
+   Kapcsolat, engedélykérés: JTVilaga@gmail.com
